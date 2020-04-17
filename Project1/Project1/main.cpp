@@ -35,6 +35,10 @@ int main() {
 	for (int i = 1; i < 10; i++) {
 		cout << 8 << " x " << i << " = " << 8 * i << endl;
 	}
-	cout << "9´Ü" << endl;
+	cout<< 9<<"´Ü"<<endl;
+    for(int j=1; j<=9; j++) {
+        cout<< 9 <<" * "<< j<<" = "<< 9*j<<endl;
+    }
+    
 
 }
